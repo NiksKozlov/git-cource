@@ -6,3 +6,7 @@ const stringToNumber = function(str){
     let helloWorld = 'hello world!'
     return helloWorld
   }
+
+  function booleanToString(b){
+    return String(b)
+  }
