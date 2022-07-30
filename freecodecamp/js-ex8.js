@@ -6,4 +6,4 @@ class SmallestIntegerFinder {
   }
 
   //const myStr = "This is the start. " + "This is the end.";
-  //HELLO FRIEND!!!!
+  //HELLO FRIEND!!!!!!!!git!
