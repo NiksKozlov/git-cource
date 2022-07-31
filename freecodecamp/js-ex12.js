@@ -5,3 +5,7 @@ function simpleMultiplication(number) {
       return number * 9 
     }
 }
+
+const someAdjective = "sometimes hard";
+let myStr = "Learning to code is ";
+myStr += someAdjective
