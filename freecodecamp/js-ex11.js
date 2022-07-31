@@ -5,3 +5,8 @@ function hero(bullets, dragons){
       return false
     }
   }
+
+  function makeUpperCase(str) {
+    let upperCase = str.toUpperCase()
+    return upperCase
+  }
